@@ -27,6 +27,9 @@
     "pg": "^7.11.0",
     "typescript": "^3.5.3"
   },
+  "repository": {
+    "git": "git@github.com:wanglihui/restful-started.git"
+  },
   "files": [
     "dist",
     "package.json",
