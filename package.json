@@ -4,7 +4,8 @@
   "description": "typescript restful started",
   "main": "dist/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "dist": "rm -rf dist/ && tsc"
   },
   "keywords": [
     "typescript",

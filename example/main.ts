@@ -1,4 +1,4 @@
-import restfulserver from '../dist';
+import restfulserver from '../index';
 restfulserver
     .configRoute({})
     .configDb({
