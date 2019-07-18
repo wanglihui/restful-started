@@ -1,6 +1,6 @@
 {
   "name": "restful-started",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "typescript restful started",
   "main": "dist/index.js",
   "scripts": {
@@ -28,7 +28,8 @@
     "typescript": "^3.5.3"
   },
   "repository": {
-    "git": "git@github.com:wanglihui/restful-started.git"
+    "type": "git",
+    "url": "git@github.com:wanglihui/restful-started.git"
   },
   "files": [
     "dist",
