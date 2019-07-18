@@ -1,0 +1,35 @@
+{
+  "name": "restful-started",
+  "version": "0.0.1",
+  "description": "typescript restful started",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "typescript",
+    "restful",
+    "started"
+  ],
+  "author": "wanglihui.sjz@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.10.1",
+    "ts-express-restful": "^5.0.3"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.27",
+    "@types/express": "^4.17.0",
+    "@types/node": "^12.6.8",
+    "@types/validator": "^10.11.1",
+    "pg": "^7.11.0",
+    "typescript": "^3.5.3"
+  },
+  "files": [
+    "dist",
+    "package.json",
+    "example",
+    "README.md"
+  ]
+}
